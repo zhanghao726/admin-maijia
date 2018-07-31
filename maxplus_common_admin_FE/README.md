@@ -2,7 +2,7 @@
 ```
 edgar 2018.6.26
 origin github https://github.com/PanJiaChen/vue-element-admin
-[前往](https://github.com/PanJiaChen/vue-element-admin)
+
 ```
 ###
 ### 简介
