@@ -4,9 +4,8 @@ edgar 2018.6.26
 origin github https://github.com/PanJiaChen/vue-element-admin
 
 ```
-###
 
-###简介
+### 简介
 ```
 该项目是应用了PanJiaChen/vue-element-admin开源项目，将其进行整理
 ```
