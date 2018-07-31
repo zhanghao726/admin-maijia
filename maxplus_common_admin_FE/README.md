@@ -39,6 +39,7 @@ npm run dev
 
 快递管理
 ![快递管理](https://github.com/zhanghao726/admin-maijia/blob/master/maxplus_common_admin_FE/static/img/1533023728(1).jpg
+)
 
 商品发布
 ![商品发布](https://github.com/zhanghao726/admin-maijia/blob/master/maxplus_common_admin_FE/static/img/1533023770(1).jpg
