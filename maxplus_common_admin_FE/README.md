@@ -26,3 +26,8 @@ npm run dev
 
 注：node-sass需要安装python2.7 config中配置api地址和web地址
 ```
+
+### 首页
+
+![首页](https://github.com/zhanghao726/admin-maijia/blob/master/maxplus_common_admin_FE/static/img/1533022951(1).jpg
+)
