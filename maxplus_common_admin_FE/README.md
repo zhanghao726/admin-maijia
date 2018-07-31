@@ -10,9 +10,19 @@ origin github https://github.com/PanJiaChen/vue-element-admin
 该项目是应用了PanJiaChen/vue-element-admin开源项目，将其进行整理
 ```
 
-### 安装使用
+### 使用
 ```
-0、node-sass需要安装python2.7 config中配置api地址和web地址
-1、yarn install或npm install
-2、npm run dev
+# 克隆项目
+git clone https://github.com/PanJiaChen/vue-element-admin.git
+
+# 安装依赖
+npm install
+   
+# 建议不要用cnpm安装 会有各种诡异的bug 可以通过如下操作解决 npm 下载速度慢的问题
+npm install --registry=https://registry.npm.taobao.org
+
+# 启动服务
+npm run dev
+
+注：node-sass需要安装python2.7 config中配置api地址和web地址
 ```
