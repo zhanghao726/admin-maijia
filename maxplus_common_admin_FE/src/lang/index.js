@@ -9,19 +9,22 @@ import zhLocale from './zh'
 Vue.use(VueI18n)
 
 const messages = {
-    en: {
-        ...enLocale,
-        ...elementEnLocale
-    },
-    zh: {
-        ...zhLocale,
-        ...elementZhLocale
-    }
+  en: {
+    ...enLocale,
+    ...elementEnLocale
+  },
+  zh: {
+    ...zhLocale,
+    ...elementZhLocale
+  }
 }
 
 const i18n = new VueI18n({
-    locale: Cookies.get('language') || 'zh', // 设置默认本地语言
-    messages // set locale messages
+  // set locale
+  // options: en or zh
+  locale: Cookies.get('language') || 'en',
+  // set locale messages
+  messages
 })
 
 export default i18n

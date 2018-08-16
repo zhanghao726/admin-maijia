@@ -1,11 +1,11 @@
 <template>
-    <div></div>
+  <div></div>
 </template>
 
 <script>
-    export default {
-        created() {
-            this.b = b // eslint-disable-line
-        }
-    }
+export default {
+  created() {
+    this.b = b // eslint-disable-line
+  }
+}
 </script>
